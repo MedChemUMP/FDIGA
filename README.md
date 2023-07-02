@@ -24,7 +24,7 @@ The repository is organized as follows:
 
 To access the datasets, you can clone the repository to your local machine using the following command:
 
-git clone [https://github.com/phonglam3103/Systematic_review.git](https://github.com/MedChemUMP/FDIGA)
+git clone https://github.com/MedChemUMP/FDIGA
 
 ## Preprint
 
