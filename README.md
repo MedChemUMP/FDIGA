@@ -1,4 +1,6 @@
 #  <ins>FDIGA</ins> (<ins>F</ins>lavonoids as  <ins>D</ins>ual-target <ins>I</ins>nhibitors against α-<ins>G</ins>lucosidase and α-<ins>A</ins>mylase: a Systematic Review of in vitro studies)
+[![python](https://img.shields.io/badge/python-v3.x-blue)]()
+[![DOI](https://img.shields.io/badge/Preprint-chemrxiv-green)](https://doi.org/10.26434/chemrxiv-2023-cdlf8-v3)
 
 ## Supplementary data 
 This repository contains the supplementary datasets for the systematic review on flavonoids dual-target inhibitors of α-glucosidase and α-amylase. The datasets were queried from six databases (PubMed, Virtual Health Library, EMBASE, SCOPUS, Web of Science, and WHO Global Index Medicus) as of August 2022.
