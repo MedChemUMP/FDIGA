@@ -36,4 +36,4 @@ A preprint of the review paper has been deposited on ChemRxiv server at: 10.2643
 
 If you use these datasets in your research or publications, please cite us as:
 
-Lam T-P, Tran N-VN, Pham L-HD, et al. **Flavonoids as dual-target inhibitors against α-glucosidase and α-amylase: a systematic review of in vitro studies.** ChemRxiv. 2023. doi:10.26434/chemrxiv-2023-cdlf8-v3
+Lam T-P, Tran N-VN, Pham L-HD, et al. **Flavonoids as dual-target inhibitors against α-glucosidase and α-amylase: a systematic review of in vitro studies.** Natural Products and Bioprospecting. 2023. (Just accepted)
