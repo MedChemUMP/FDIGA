@@ -33,7 +33,7 @@ git clone https://github.com/MedChemUMP/FDIGA.git
 A preprint of the review paper has been deposited on ChemRxiv server at: 10.26434/chemrxiv-2023-cdlf8-v3
 
 ## Citation
-
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100924771&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" align="right" src="https://www.scimagojr.com/journal_img.php?id=21100924771" alt="SCImago Journal &amp; Country Rank"  /></a>
 If you use these datasets in your research or publications, please cite us as:
 
 Lam T-P, Tran N-VN, Pham L-HD, et al. **Flavonoids as dual-target inhibitors against α-glucosidase and α-amylase: a systematic review of in vitro studies.** Natural Products and Bioprospecting. 2023. (Just accepted)
