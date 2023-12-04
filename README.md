@@ -1,7 +1,7 @@
 #  <ins>FDIGA</ins> (<ins>F</ins>lavonoids as  <ins>D</ins>ual-target <ins>I</ins>nhibitors against α-<ins>G</ins>lucosidase and α-<ins>A</ins>mylase: a Systematic Review of in vitro studies)
-[![python](https://img.shields.io/badge/python-v3.x-blue)]()
-[![DOI](https://img.shields.io/badge/Preprint-chemrxiv-green)](https://doi.org/10.26434/chemrxiv-2023-cdlf8-v3)
-
+[![python](https://img.shields.io/badge/python-v3.x-green)]()
+[![DOI](https://img.shields.io/badge/Preprint-Chemrxiv-orange)](https://doi.org/10.26434/chemrxiv-2023-cdlf8-v3)
+[![DOI](https://img.shields.io/badge/DOI-10.1007/s13659--023--00424--w-blue)](https://doi.org/10.1007/s13659-023-00424-w)
 ## Supplementary data 
 This repository contains the supplementary datasets for the systematic review on flavonoids dual-target inhibitors of α-glucosidase and α-amylase. The datasets were queried from six databases (PubMed, Virtual Health Library, EMBASE, SCOPUS, Web of Science, and WHO Global Index Medicus) as of August 2022.
 
@@ -36,4 +36,8 @@ A preprint of the review paper has been deposited on ChemRxiv server at: 10.2643
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100924771&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" align="right" src="https://www.scimagojr.com/journal_img.php?id=21100924771" alt="SCImago Journal &amp; Country Rank"  /></a>
 If you use these datasets in your research or publications, please cite us as:
 
-Lam T-P, Tran N-VN, Pham L-HD, et al. **Flavonoids as dual-target inhibitors against α-glucosidase and α-amylase: a systematic review of in vitro studies.** Natural Products and Bioprospecting. 2023. (Just accepted)
+Lam T-P, Tran N-VN, Pham L-HD, et al. **Flavonoids as dual-target inhibitors against α-glucosidase and α-amylase: a systematic review of in vitro studies.** Natural Products and Bioprospecting. 2023. https://doi.org/10.1007/s13659-023-00424-w (Just accepted)
+
+Also consider citing our research article in this field:
+
+Mai TT, Phan MH, Thai TT, Lam T-P, et al. **Discovery of novel flavonoid derivatives as potential dual inhibitors against α-glucosidase and α-amylase: virtual screening, synthesis, and biological evaluation.** Molecular diversity. 2023; https://doi.org/10.1007/s11030-023-10680-0
