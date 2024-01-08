@@ -36,7 +36,7 @@ A preprint of the review paper has been deposited on ChemRxiv server at: 10.2643
 <a href="https://www.scimagojr.com/journalsearch.php?q=21100924771&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" align="right" src="https://www.scimagojr.com/journal_img.php?id=21100924771" alt="SCImago Journal &amp; Country Rank"  /></a>
 If you use these datasets in your research or publications, please cite us as:
 
-Lam T-P, Tran N-VN, Pham L-HD, et al. **Flavonoids as dual-target inhibitors against α-glucosidase and α-amylase: a systematic review of in vitro studies.** Natural Products and Bioprospecting. 2023. https://doi.org/10.1007/s13659-023-00424-w (Just accepted)
+Lam T-P, Tran N-VN, Pham L-HD, et al. **Flavonoids as dual-target inhibitors against α-glucosidase and α-amylase: a systematic review of in vitro studies.** Natural Products and Bioprospecting. Nat. Prod. Bioprospect. 14, 4 (2024). https://doi.org/10.1007/s13659-023-00424-w
 
 Also consider citing our research article in this field:
 
